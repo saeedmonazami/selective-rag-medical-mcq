@@ -1,0 +1,36 @@
+# Qwen 35B Configuration
+# Source: experiments/01_qwen_local_vs_rag.py
+
+model:
+  name: "Qwen3.6-35B-A3B-NVFP4"
+  parameters: "35B MoE"
+  quantization: "NVFP4 (4-bit)"
+  api_url: "http://127.0.0.1:1919/v1/chat/completions"
+
+inference:
+  temperature: 0
+  max_tokens: 128
+  enable_thinking: false
+
+retrieval:
+  collections:
+    - "family_medicine_engine"
+    - "harrison_chunks"
+  retrieval_limit: 8
+  vector_threshold: 0.50
+  reranker: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  top_k: 3
+  context_length_per_chunk: 1200
+
+rag_gate:
+  type: "fixed"
+  condition: "rerank_score > -1.5"
+  description: "Effectively always-on for any retrieved context"
+
+embedding:
+  model: "bge-m3"
+  api_url: "http://127.0.0.1:11434/api/embeddings"
+
+vector_db:
+  engine: "Qdrant"
+  api_url: "http://127.0.0.1:6333"

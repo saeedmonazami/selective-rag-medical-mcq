@@ -1,0 +1,2934 @@
+[
+ {
+  "id": 2,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 11,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.5995872338612874,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 15,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.7635583599408468,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 17,
+  "correct": "D",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 21,
+  "correct": "A",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.7429843862851461,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 22,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 32,
+  "correct": "D",
+  "local": "B",
+  "rag_full": "D",
+  "top_score": 0.5254459102948507,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 34,
+  "correct": "A",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 35,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.5067864974339803,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 44,
+  "correct": "A",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 49,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 55,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 56,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "A",
+  "top_score": 0.7774793823560079,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 57,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 66,
+  "correct": "C",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.8830396850903829,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 67,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.6536117513974508,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 68,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 73,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 78,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9259268363316854,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 81,
+  "correct": "A",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 87,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 90,
+  "correct": "D",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 100,
+  "correct": "D",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.9747051914532979,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 107,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 112,
+  "correct": "B",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.7260440309842427,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 121,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 125,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 126,
+  "correct": "A",
+  "local": "D",
+  "rag_full": "A",
+  "top_score": 0.7763802131017049,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 148,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 153,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.9240349253018697,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 160,
+  "correct": "C",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 177,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9478130062421163,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 179,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7945940216382344,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 185,
+  "correct": "D",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.6626436432202657,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 187,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.6787822564442952,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 192,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 195,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9374309500058492,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 202,
+  "correct": "C",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.7545064409573873,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 212,
+  "correct": "D",
+  "local": "B",
+  "rag_full": "A",
+  "top_score": 0.662883194287618,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 214,
+  "correct": "B",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.5915011485417684,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 220,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 231,
+  "correct": "A",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 235,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 238,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 1.0,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 241,
+  "correct": "B",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.7869746406873067,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 246,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.5704661925633748,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 259,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "A",
+  "top_score": 0.8714797218640645,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 261,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7804920395215352,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 263,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.6417320092519124,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 269,
+  "correct": "C",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.7646720131238302,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 272,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.5972317179044088,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 275,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8678857405980428,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 277,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.5628084262212117,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 286,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7917095144589742,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 289,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 294,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 296,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.5197364409764608,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 298,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 299,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 300,
+  "correct": "D",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 314,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 325,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.5789142568906148,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 328,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 331,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.7242535670598348,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 332,
+  "correct": "D",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.7016675194104512,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 347,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.5291019996007283,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 356,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 361,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 367,
+  "correct": "D",
+  "local": "C",
+  "rag_full": "D",
+  "top_score": 0.88227352698644,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 371,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8269274552663167,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 376,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 383,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8624852021535238,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 387,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.8970232327779134,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 395,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.9140245040257772,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 396,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 400,
+  "correct": "B",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.6168998797734578,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 410,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.8731625398000081,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 420,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 423,
+  "correct": "D",
+  "local": "A",
+  "rag_full": "C",
+  "top_score": 0.9141913374265035,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 426,
+  "correct": "B",
+  "local": "C",
+  "rag_full": "A",
+  "top_score": 0.8696391304334005,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 427,
+  "correct": "B",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 428,
+  "correct": "A",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.5751039107640584,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 434,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "A",
+  "top_score": 0.8184017260869344,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedMCQA",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 442,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 454,
+  "correct": "D",
+  "local": "B",
+  "rag_full": "A",
+  "top_score": 0.5752442797025045,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 455,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 458,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 461,
+  "correct": "C",
+  "local": "D",
+  "rag_full": "C",
+  "top_score": 0.9586609323819478,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 462,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.936494501431783,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 463,
+  "correct": "A",
+  "local": "C",
+  "rag_full": "A",
+  "top_score": 0.8416508158047994,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 464,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.8452017029126485,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 473,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.6728625615437825,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 480,
+  "correct": "B",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 482,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.9419137557347615,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 485,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "A",
+  "top_score": 0.5528733452161153,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 489,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "A",
+  "top_score": 0.8407165726025899,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 492,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "D",
+  "top_score": 0.8247660716374715,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 503,
+  "correct": "B",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.55527636607488,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 510,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.775089951356252,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 528,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 529,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.9480382521947225,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 531,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 536,
+  "correct": "D",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 540,
+  "correct": "D",
+  "local": "B",
+  "rag_full": "D",
+  "top_score": 0.882457168896993,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 545,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7951703389485677,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 562,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.8444254716237386,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 568,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8078112920125325,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 571,
+  "correct": "C",
+  "local": "B",
+  "rag_full": "C",
+  "top_score": 0.6653015335400899,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 575,
+  "correct": "B",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9700569232304891,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 580,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 581,
+  "correct": "C",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 586,
+  "correct": "B",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 587,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "B",
+  "top_score": 0.7160975654919942,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 599,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 602,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.9128478487332662,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 603,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 605,
+  "correct": "B",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 623,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.762015434106191,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 631,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 639,
+  "correct": "A",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 645,
+  "correct": "B",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.5988934954007467,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 650,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7215501387914022,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 658,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9818599541982015,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 659,
+  "correct": "C",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 662,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "B",
+  "top_score": 0.5715098698933919,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 665,
+  "correct": "B",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.6974917968114217,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 667,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 668,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.6171257217725118,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 677,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8169045766194661,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 681,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 699,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 706,
+  "correct": "B",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 711,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.5158233364423116,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 714,
+  "correct": "B",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.910822602113088,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 715,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.5043227692445119,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 717,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 719,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 726,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 728,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 730,
+  "correct": "D",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 738,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.7905784567197164,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 742,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.8697281201680501,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 757,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 761,
+  "correct": "D",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 768,
+  "correct": "B",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 771,
+  "correct": "C",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 785,
+  "correct": "D",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 790,
+  "correct": "B",
+  "local": null,
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 793,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.5811113437016805,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 796,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 802,
+  "correct": "D",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 812,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "A",
+  "top_score": 0.6727229674657186,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 813,
+  "correct": "C",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.8370936830838521,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 820,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.657321306069692,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 823,
+  "correct": "C",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 825,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "D",
+  "top_score": 0.9823384006818136,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 827,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.9278632124265035,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 829,
+  "correct": "D",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7859168370564779,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 834,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.6695376952489217,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 835,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "B",
+  "top_score": 0.9075712283452352,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 837,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 845,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.6129161437352498,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 848,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 850,
+  "correct": "B",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.6970056017239888,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 857,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 858,
+  "correct": "A",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7648533304532369,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 860,
+  "correct": "C",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 861,
+  "correct": "B",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.9420727213223775,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 875,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.7542398889859517,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 876,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.6431687196095784,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 878,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 880,
+  "correct": "C",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.6449216922124227,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 886,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "C",
+  "top_score": 0.671252163251241,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 887,
+  "correct": "A",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 888,
+  "correct": "A",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9560271223386129,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 889,
+  "correct": "A",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 892,
+  "correct": "D",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8367517312367757,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 893,
+  "correct": "B",
+  "local": "D",
+  "rag_full": "B",
+  "top_score": 0.8459508736928304,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 898,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 901,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.7819654067357381,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 912,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 920,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 932,
+  "correct": "D",
+  "local": "C",
+  "rag_full": "D",
+  "top_score": 0.976467223962148,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 950,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 954,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 959,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.63592103322347,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 960,
+  "correct": "D",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 963,
+  "correct": "D",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 969,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "A",
+  "top_score": 0.8621732910474141,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 975,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 976,
+  "correct": "D",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 978,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.59505668481191,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 988,
+  "correct": "B",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 990,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.6191530545552572,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 997,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.776201339562734,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1006,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1013,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.5629002173741658,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1014,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.5370240529378255,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1020,
+  "correct": "C",
+  "local": "B",
+  "rag_full": "C",
+  "top_score": 0.5092621465524038,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1021,
+  "correct": "D",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.5400357564290365,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1026,
+  "correct": "A",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.5123679955800374,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1027,
+  "correct": "B",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1029,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1030,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8063827474912008,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1031,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.8924950083096822,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1032,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.7302515824635823,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1033,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1037,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1041,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1044,
+  "correct": "B",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1050,
+  "correct": "C",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1058,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1065,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.5511828382809957,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1068,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "A",
+  "top_score": 0.6671511252721151,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1069,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.6876836140950521,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1071,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1100,
+  "correct": "A",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1107,
+  "correct": "A",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1108,
+  "correct": "C",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1118,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.7156022508939107,
+  "has_context": true,
+  "sources": [
+   "MedMCQA"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1121,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1132,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.8525687177975972,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1138,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "C",
+  "top_score": 0.7176822741826375,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1142,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1145,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.8140084465344747,
+  "has_context": true,
+  "sources": [
+   "MedMCQA",
+   "MedMCQA",
+   "MedMCQA"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1150,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "B",
+  "top_score": 0.7464566548665365,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1155,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "C",
+  "top_score": 0.6973707993825277,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1157,
+  "correct": "D",
+  "local": "D",
+  "rag_full": "D",
+  "top_score": 0.8717156966527303,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1163,
+  "correct": "B",
+  "local": "D",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1166,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1171,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.9419769366582235,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1173,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.7303342541058858,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1180,
+  "correct": "A",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1185,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.6613588054974874,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1187,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.9704091270764669,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1193,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.8733162601788839,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1195,
+  "correct": "A",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1201,
+  "correct": "C",
+  "local": "C",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1202,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1203,
+  "correct": "C",
+  "local": "C",
+  "rag_full": "C",
+  "top_score": 0.76624569495519,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1212,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.8887120207150777,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1233,
+  "correct": "A",
+  "local": "B",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1236,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.9983909447987874,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1238,
+  "correct": "C",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.5737817009290059,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1250,
+  "correct": "A",
+  "local": "D",
+  "rag_full": "C",
+  "top_score": 0.7566219886144002,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1251,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": false
+ },
+ {
+  "id": 1254,
+  "correct": "B",
+  "local": "B",
+  "rag_full": "B",
+  "top_score": 0.9521724899609884,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ },
+ {
+  "id": 1255,
+  "correct": "A",
+  "local": "D",
+  "rag_full": "C",
+  "top_score": 0.9591242392857869,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": false
+ },
+ {
+  "id": 1258,
+  "correct": "A",
+  "local": "A",
+  "rag_full": null,
+  "top_score": 0.0,
+  "has_context": false,
+  "sources": [],
+  "in_val": true
+ },
+ {
+  "id": 1263,
+  "correct": "A",
+  "local": "A",
+  "rag_full": "A",
+  "top_score": 0.6644488294919332,
+  "has_context": true,
+  "sources": [
+   "MedRAG Core Textbooks (Harrison, Nelson, etc.)"
+  ],
+  "in_val": true
+ }
+]

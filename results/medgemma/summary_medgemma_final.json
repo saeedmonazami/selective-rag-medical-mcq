@@ -1,0 +1,86 @@
+{
+ "best_threshold": 0.9,
+ "calibration": [
+  {
+   "th": 0.3,
+   "acc": 0.69,
+   "used": 58
+  },
+  {
+   "th": 0.4,
+   "acc": 0.69,
+   "used": 58
+  },
+  {
+   "th": 0.5,
+   "acc": 0.69,
+   "used": 58
+  },
+  {
+   "th": 0.6,
+   "acc": 0.7,
+   "used": 46
+  },
+  {
+   "th": 0.7,
+   "acc": 0.71,
+   "used": 34
+  },
+  {
+   "th": 0.8,
+   "acc": 0.74,
+   "used": 22
+  },
+  {
+   "th": 0.9,
+   "acc": 0.74,
+   "used": 11
+  }
+ ],
+ "test": {
+  "label": "TEST — Selective vs Always vs Local",
+  "n": 150,
+  "local": 0.6066666666666667,
+  "always": 0.5866666666666667,
+  "selective": 0.6,
+  "used_selective": 16,
+  "used_always": 82,
+  "helped": 1,
+  "hurt": 2,
+  "mcnemar": {
+   "b": 2,
+   "c": 1,
+   "chi2": 0.0,
+   "p": 1.0
+  },
+  "none": {
+   "local": 1,
+   "rag_full": 0,
+   "final": 1
+  },
+  "sources": [
+   [
+    "MedRAG Core Textbooks (Harrison, Nelson, etc.)",
+    42
+   ],
+   [
+    "MedMCQA",
+    1
+   ]
+  ],
+  "ci": {
+   "local": [
+    52.676472392332705,
+    68.12414330589196
+   ],
+   "always": [
+    50.665709423173475,
+    66.23479083163406
+   ],
+   "selective": [
+    52.00476798506317,
+    67.49580923202245
+   ]
+  }
+ }
+}

@@ -1,0 +1,44 @@
+# MedGemma 4B Configuration
+# Source: experiments/02_medgemma_selective_rag.py (2_run_medgemma_final.py)
+
+model:
+  name: "medgemma-1.5-4b-it"
+  parameters: "4B dense"
+  quantization: "None"
+  api_url: "http://127.0.0.1:1234/v1/chat/completions"
+  serving: "LM Studio"
+
+inference:
+  temperature: 0.0
+  max_tokens: 2048
+
+retrieval:
+  collections:
+    - "family_medicine_engine"
+  retrieval_limit: 20
+  vector_threshold: 0.25
+  reranker: "BAAI/bge-reranker-v2-m3"
+  top_k: 3
+  chunk_floor: 0.50
+  priority_boost: 0.05
+  context_length_per_chunk: 1200
+
+rag_gate:
+  type: "calibrated"
+  calibration_thresholds: [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+  selected_threshold: 0.90
+  validation_accuracy: "74.00%"
+  description: "Gate calibrated on held-out validation set (100 questions, seed=42)"
+
+data_split:
+  seed: 42
+  val_size: 100
+  test_size: 150
+
+embedding:
+  model: "bge-m3"
+  api_url: "http://127.0.0.1:11434/api/embeddings"
+
+vector_db:
+  engine: "Qdrant"
+  api_url: "http://127.0.0.1:6333"
